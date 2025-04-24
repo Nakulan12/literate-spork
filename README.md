@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c9c4685-c24d-4593-880a-0168743684d4" width="250" alt="Open Source Hub Logo">
+</p>
+
 # 🌍 Open Source Hub — `source.md`
 
 Welcome to the **Literate-Spork Open Source Hub!**  
