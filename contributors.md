@@ -1,3 +1,6 @@
+
+![LITERATE-SPORK Badge](https://img.shields.io/badge/LITERATE--SPORK-Contributor-brightgreen?style=for-the-badge&logo=github)
+
 # 🤝 Contribution Guidelines
 
 Thank you for your interest in contributing to **literate-spork**!  
@@ -35,3 +38,18 @@ By participating, you agree to uphold a respectful and inclusive environment for
 
    ```md
    | Project Name | [Your Name](GitHub Profile) | [Repository Link](Project URL) |
+   ```
+
+---
+
+🏅 **LS Badge**:  
+Once your project is accepted, you’ll be recognized with the **LS Contributor Badge**  
+Show it proudly in your GitHub profile or project readmes:
+
+```md
+![LITERATE-SPORK Badge](https://img.shields.io/badge/LITERATE--SPORK-Contributor-brightgreen?style=for-the-badge&logo=github)
+```
+
+Happy contributing! 🚀
+
+
