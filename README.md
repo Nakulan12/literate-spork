@@ -87,25 +87,11 @@
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Online Store API | [Link](https://github.com/gowtham-dd/online_store_api) | RESTful API backend for an online store using Node.js |
 
----
 
-## 🛠️ How to Contribute
-
-1. **Fork** this repository.
-2. **Clone** your fork locally.
-3. Switch to the `contributors` branch:
-   ```bash
-   git checkout contributors
-   ```
-4. Open `source.md` and add your project under the appropriate section using this format:
-   ```
-   | Your Name | Project Name | [Link](https://github.com/your-username/your-repo) | Short description |
-   ```
-5. Create a Pull Request from your fork's `contributors` branch to this repo.
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
 
----
+
 
 **Made with ❤️ by Gowtham D and the community**
 
