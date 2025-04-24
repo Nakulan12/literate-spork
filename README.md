@@ -21,7 +21,12 @@
 - [📈 Power BI Projects](#-power-bi-projects)
 - [🧠 Data Science Basics](#-data-science-basics)
 - [🧰 Node.js APIs](#-nodejs-apis)
-- [🛠️ How to Contribute](#-how-to-contribute)
+- [💡 Project Ideas](#-project-ideas)
+- [🖥️ Basic UI Clone Projects](#-basic-ui-clone-projects)
+- [🖱️ Clone Projects](#-clone-projects)
+- [📄 Papers](#-papers)
+- [📰 Articles](#-articles)
+- [🔧 Others](#-others)
 
 ---
 
@@ -99,6 +104,52 @@
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Online Store API | [Link](https://github.com/gowtham-dd/online_store_api) | RESTful API backend for an online store using Node.js |
 
+
+## 💡 Project Ideas
+
+| Contributor | Idea Title | GitHub Link / Notes |
+|-------------|------------|---------------------|
+| _Add Here_  |            |                     |
+
+---
+
+## 🖥️ Basic UI Clone Projects
+
+| Contributor | Project Name | GitHub Link |
+|-------------|--------------|-------------|
+| _Add Here_  |              |             |
+
+---
+
+## 🖱️ Clone Projects
+
+| Contributor | Project Name | GitHub Link |
+|-------------|--------------|-------------|
+| _Add Here_  |              |             |
+
+---
+
+## 📄 Papers
+
+| Contributor | Paper Title | GitHub Link |
+|-------------|-------------|-------------|
+| _Add Here_  |             |             |
+
+---
+
+## 📰 Articles
+
+| Contributor | Article Title | GitHub Link |
+|-------------|---------------|-------------|
+| _Add Here_  |               |             |
+
+---
+
+## 🔧 Others
+
+| Contributor | Project Name | GitHub Link |
+|-------------|--------------|-------------|
+| _Add Here_  |              |             |
 
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
