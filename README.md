@@ -36,13 +36,13 @@
 | Gowtham D | Chat App | [Link](https://github.com/gowtham-dd/chat-app) | Real-time Flutter chat app powered by Firebase |
 | Gowtham D | Plantgram | [Link](https://github.com/gowtham-dd/plantgram_flutter) | AI-based plant disease detection with IoT support |
 | Gowtham D | SightCompanion | [Link](https://github.com/gowtham-dd/sight_companion) | Assistive tech app for visually impaired using AI |
-| Shree Purvaja D | Neuro-Aid-Brain-Tumor-Classifier | [Link](https://github.com/ShreePurvaja/Neuro-Aid-Brain-Tumor-Classifier) | Mobile application to detect brain tumors in MRI images using ML |
-| Shree Purvaja D | Instagram-clone | [Link](https://github.com/ShreePurvaja/Instagram-clone) | Instagram Clone designed to replicate the core functionalities of Instagram, providing users with a seamless photo-sharing experience. |
-| Shree Purvaja D | Shoezone-App | [Link](https://github.com/ShreePurvaja/Shoezone-App) | Flutter-based mini ShoeCart application features a modern UI with a seamless shopping experience |
-| Shree Purvaja D | Music--UI---App | [Link](https://github.com/ShreePurvaja/Music--UI---App) | Modern music player application features a sleek and intuitive UI design with dynamic theme switching.|
-| Shree Purvaja D | WhatsApp--UI | [Link](https://github.com/ShreePurvaja/WhatsApp--UI) | WhatsApp UI clone replicates the modern and intuitive design of WhatsApp, featuring chats, status, and calls screens with a bottom navigation bar.|
-| Shree Purvaja D | Animated-Simple-Login-UI | [Link](https://github.com/ShreePurvaja/Animated-Simple-Login-UI) | Animated login UI features a sleek and modern design with smooth transitions for an engaging user experience.|
-| Shree Purvaja D | Basic-Currency-Converter | [Link](https://github.com/ShreePurvaja/Basic-Currency-Converter-) | A basic currency converter app built in Flutter, created as an introductory project |
+| Shree Purvaja D  | Neuro-Aid-Brain-Tumor-Classifier | [Link](https://github.com/ShreePurvaja/Neuro-Aid-Brain-Tumor-Classifier) | Mobile application to detect brain tumors in MRI images using ML |
+| Shree Purvaja D  | Instagram-clone | [Link](https://github.com/ShreePurvaja/Instagram-clone) | Instagram Clone designed to replicate the core functionalities of Instagram, providing users with a seamless photo-sharing experience. |
+| Shree Purvaja D  | Shoezone-App | [Link](https://github.com/ShreePurvaja/Shoezone-App) | Flutter-based mini ShoeCart application features a modern UI with a seamless shopping experience |
+| Shree Purvaja D  | Music--UI---App | [Link](https://github.com/ShreePurvaja/Music--UI---App) | Modern music player application features a sleek and intuitive UI design with dynamic theme switching.|
+| Shree Purvaja D  | WhatsApp--UI | [Link](https://github.com/ShreePurvaja/WhatsApp--UI) | WhatsApp UI clone replicates the modern and intuitive design of WhatsApp, featuring chats, status, and calls screens with a bottom navigation bar.|
+| Shree Purvaja D  | Animated-Simple-Login-UI | [Link](https://github.com/ShreePurvaja/Animated-Simple-Login-UI) | Animated login UI features a sleek and modern design with smooth transitions for an engaging user experience.|
+| Shree Purvaja D  | Basic-Currency-Converter | [Link](https://github.com/ShreePurvaja/Basic-Currency-Converter-) | A basic currency converter app built in Flutter, created as an introductory project |
 
 ---
 
@@ -70,8 +70,8 @@
 | Gowtham D | Stock Analysis | [Link](https://github.com/gowtham-dd/Project-2-Stock-Analysis) | Time-series forecasting and market trend analysis |
 | Gowtham D | House Price Prediction | [Link](https://github.com/gowtham-dd/Project_3-HousePrediction) | Predictive modeling using regression algorithms |
 | Shree Purvaja D | IMDB-2024-Data-Scraping-and-Visualizations | [Link](https://github.com/ShreePurvaja/IMDB-2024-Data-Scraping-and-Visualizations) | Analytics over 2024 IMDB movie datasets |
-| Shree Purvaja D | Data-Driven-Stock-Analysis | [Link](https://github.com/ShreePurvaja/Data-Driven-Stock-Analysis) | Stock Market Trends and Analysis |
-| Shree Purvaja D | PowerPulse-Household-Energy-Usage-Forecast | [Link](https://github.com/ShreePurvaja/PowerPulse-Household-Energy-Usage-Forecast) | Picking out the best regression model for predecting the power consumption |
+| Shree Purvaja D  | Data-Driven-Stock-Analysis | [Link](https://github.com/ShreePurvaja/Data-Driven-Stock-Analysis) | Stock Market Trends and Analysis |
+| Shree Purvaja D  | PowerPulse-Household-Energy-Usage-Forecast | [Link](https://github.com/ShreePurvaja/PowerPulse-Household-Energy-Usage-Forecast) | Picking out the best regression model for predecting the power consumption |
 
 ---
 
@@ -88,7 +88,7 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Data Science Starter Pack | [Link](https://github.com/gowtham-dd/Data-Science-Basics) | Core concepts and notebooks for beginners in DS |
-| Shree Purvaja D | Data-Science-Notes | [Link](https://github.com/ShreePurvaja/Data-Science-Notes) | Notes and Materials curated for Data Science prep. |
+| Shree Purvaja D  | Data-Science-Notes | [Link](https://github.com/ShreePurvaja/Data-Science-Notes) | Notes and Materials curated for Data Science prep. |
 
 ---
 
