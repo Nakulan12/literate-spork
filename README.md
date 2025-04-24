@@ -21,7 +21,6 @@
 - [📈 Power BI Projects](#-power-bi-projects)
 - [🧠 Data Science Basics](#-data-science-basics)
 - [🧰 Node.js APIs](#-nodejs-apis)
-- [🛠️ How to Contribute](#-how-to-contribute)
 
 ---
 
