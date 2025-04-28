@@ -2,8 +2,11 @@
 
 
 
+
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c9c4685-c24d-4593-880a-0168743684d4" alt="Literate Spork Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bcda2fbe-95d8-4390-a012-73508193c9fd" alt="Literate Spork Logo" width="1000"/>
 </p>
 
 <h1 align="center">🌍 Literate-Spork — Open Source Hub</h1>
