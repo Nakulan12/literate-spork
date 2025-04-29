@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bcda2fbe-95d8-4390-a012-73508193c9fd" alt="Literate Spork Logo" width="1000"/>
 </p>
@@ -37,8 +44,14 @@
 | Gowtham D | Feminee | [Link](https://github.com/gowtham-dd/Feminee) | Women-focused wellness and lifestyle Flutter app |
 | Gowtham D | WorkFlow Generator | [Link](https://github.com/gowtham-dd/WorkFlow-Generator) | App to create and automate workflow structures |
 | Gowtham D | Chat App | [Link](https://github.com/gowtham-dd/chat-app) | Real-time Flutter chat app powered by Firebase |
-| Priyadarshini S | TODO APP | [Link](https://github.com/PriyadarshiniSathishKumar/TO-DO-APP) | A simple task management application |
-| Priyadarshini S | Weather App | [Link](https://github.com/PriyadarshiniSathishKumar/Weather-APP) | A weather forecast app |
+| Shree Purvaja D   | Neuro-Aid-Brain-Tumor-Classifier | [Link](https://github.com/ShreePurvaja/Neuro-Aid-Brain-Tumor-Classifier) | Mobile application to detect brain tumors in MRI images using ML |
+| Shree Purvaja D   | Instagram-clone | [Link](https://github.com/ShreePurvaja/Instagram-clone) | Instagram Clone designed to replicate the core functionalities of Instagram, providing users with a seamless photo-sharing experience. |
+| Shree Purvaja D   | Shoezone-App | [Link](https://github.com/ShreePurvaja/Shoezone-App) | Flutter-based mini ShoeCart application features a modern UI with a seamless shopping experience |
+| Shree Purvaja D   | Music--UI---App | [Link](https://github.com/ShreePurvaja/Music--UI---App) | Modern music player application features a sleek and intuitive UI design with dynamic theme switching.|
+| Shree Purvaja D   | WhatsApp--UI | [Link](https://github.com/ShreePurvaja/WhatsApp--UI) | WhatsApp UI clone replicates the modern and intuitive design of WhatsApp, featuring chats, status, and calls screens with a bottom navigation bar.|
+| Shree Purvaja D   | Animated-Simple-Login-UI | [Link](https://github.com/ShreePurvaja/Animated-Simple-Login-UI) | Animated login UI features a sleek and modern design with smooth transitions for an engaging user experience.|
+| Shree Purvaja D   | Basic-Currency-Converter | [Link](https://github.com/ShreePurvaja/Basic-Currency-Converter-) | A basic currency converter app built in Flutter, created as an introductory project |
+
 
 ---
 
@@ -47,8 +60,6 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | React Shopping App | [Link](https://github.com/gowtham-dd/React-Shopping-Web-Application) | A responsive shopping web app built with React |
-| Priyadarshini S | Personal Portfolio | [Link](https://github.com/PriyadarshiniSathishKumar/Personal-Portfolio) | A personal portfolio website |
-| Priyadarshini S | Student Registration Form | [Link](https://github.com/PriyadarshiniSathishKumar/Student-Registration-Form) | Student registration website using HTML, CSS |
 
 ---
 
@@ -67,11 +78,9 @@
 | Gowtham D | IMDB Analytics | [Link](https://github.com/gowtham-dd/Project_1-IMDB) | Exploratory data analysis on IMDB movie dataset |
 | Gowtham D | Stock Analysis | [Link](https://github.com/gowtham-dd/Project-2-Stock-Analysis) | Time-series forecasting and market trend analysis |
 | Gowtham D | House Price Prediction | [Link](https://github.com/gowtham-dd/Project_3-HousePrediction) | Predictive modeling using regression algorithms |
-| Priyadarshini S | GEN AI Image Generator | [Link](https://github.com/PriyadarshiniSathishKumar/GENAI_ImageGenerator) |  PyTorch-based implementation of a Generative Adversarial Network (GAN) trained on the MNIST dataset|
-| Priyadarshini S | Instagram Reach Forecasting | [Link](https://github.com/PriyadarshiniSathishKumar/Instagram-Reach-Forecasting) | Forecasting Instagram post reach |
-| Priyadarshini S | Analyzing Amazon Sales Data | [Link](https://github.com/PriyadarshiniSathishKumar/Analyzing-Amazon-Sales-Data) | Sales data analysis and trends |
-| Priyadarshini S | IPL Score Prediction | [Link](https://github.com/PriyadarshiniSathishKumar/IPL-Score-Prediction) | IPL match score prediction using ML |
-| Priyadarshini S | Mutual Fund Analysis | [Link](https://github.com/PriyadarshiniSathishKumar/MutualFundAnalysis) | Analysis of mutual fund returns |
+| Shree Purvaja D  | IMDB-2024-Data-Scraping-and-Visualizations | [Link](https://github.com/ShreePurvaja/IMDB-2024-Data-Scraping-and-Visualizations) | Analytics over 2024 IMDB movie datasets |
+| Shree Purvaja D   | Data-Driven-Stock-Analysis | [Link](https://github.com/ShreePurvaja/Data-Driven-Stock-Analysis) | Stock Market Trends and Analysis |
+| Shree Purvaja D   | PowerPulse-Household-Energy-Usage-Forecast | [Link](https://github.com/ShreePurvaja/PowerPulse-Household-Energy-Usage-Forecast) | Picking out the best regression model for predecting the power consumption |
 
 ---
 
@@ -80,8 +89,6 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Power BI Visual Reports | [Link](https://github.com/gowtham-dd/Power-Bi) | Business insights and dashboards created with Power BI |
-| Priyadarshini S | Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Sales-Dashboard) | Power BI sales analysis dashboard |
-| Priyadarshini S | Financial Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Financial-Sales-dashboard) | Financial sector sales dashboard visualization |
 
 ---
 
@@ -90,7 +97,7 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Data Science Starter Pack | [Link](https://github.com/gowtham-dd/Data-Science-Basics) | Core concepts and notebooks for beginners in DS |
-| Priyadarshini S | Data Visualization of Bird Strikes 2000-2011 | [Link](https://github.com/PriyadarshiniSathishKumar/Data-visualization-of-bird-strikes-2000-2011) | Bird strike incidents data analysis and visualization |
+| Shree Purvaja D  | Data-Science-Notes | [Link](https://github.com/ShreePurvaja/Data-Science-Notes) | Notes and Materials curated for Data Science prep. |
 
 ---
 
@@ -99,9 +106,7 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Online Store API | [Link](https://github.com/gowtham-dd/online_store_api) | RESTful API backend for an online store using Node.js |
-| Priyadarshini S | Movie API | [Link](https://github.com/PriyadarshiniSathishKumar/Movie-API) | A simple Node.js movie information API |
 
----
 
 ## 💡 Project Ideas
 
@@ -115,7 +120,7 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| Priyadarshini S | Quiz Application using React.js | [Link](https://github.com/PriyadarshiniSathishKumar/Quiz-Application-using-React.js) |
+| _Add Here_  |              |             |
 
 ---
 
@@ -123,6 +128,7 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
+| _Add Here_  |              |             |
 
 ---
 
@@ -146,12 +152,13 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| Priyadarshini S | Interactive QA Bot Interface | [Link](https://github.com/PriyadarshiniSathishKumar/Interactive-QA-Bot-interface) |
+| _Add Here_  |              |             |
 
----
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
 
----
+
 
 **Made with ❤️ by Gowtham D and the community**
+
+
