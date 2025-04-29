@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bcda2fbe-95d8-4390-a012-73508193c9fd" alt="Literate Spork Logo" width="1000"/>
 </p>
@@ -44,6 +37,8 @@
 | Gowtham D | Feminee | [Link](https://github.com/gowtham-dd/Feminee) | Women-focused wellness and lifestyle Flutter app |
 | Gowtham D | WorkFlow Generator | [Link](https://github.com/gowtham-dd/WorkFlow-Generator) | App to create and automate workflow structures |
 | Gowtham D | Chat App | [Link](https://github.com/gowtham-dd/chat-app) | Real-time Flutter chat app powered by Firebase |
+| Priyadarshini S | TODO APP | [Link](https://github.com/PriyadarshiniSathishKumar/TO-DO-APP) | A simple task management application |
+| Priyadarshini S | Weather App | [Link](https://github.com/PriyadarshiniSathishKumar/Weather-APP) | A weather forecast app |
 
 ---
 
@@ -52,6 +47,8 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | React Shopping App | [Link](https://github.com/gowtham-dd/React-Shopping-Web-Application) | A responsive shopping web app built with React |
+| Priyadarshini S | Personal Portfolio | [Link](https://github.com/PriyadarshiniSathishKumar/Personal-Portfolio) | A personal portfolio website |
+| Priyadarshini S | Student Registration Form | [Link](https://github.com/PriyadarshiniSathishKumar/Student-Registration-Form) | Student registration website using HTML, CSS |
 
 ---
 
@@ -70,6 +67,11 @@
 | Gowtham D | IMDB Analytics | [Link](https://github.com/gowtham-dd/Project_1-IMDB) | Exploratory data analysis on IMDB movie dataset |
 | Gowtham D | Stock Analysis | [Link](https://github.com/gowtham-dd/Project-2-Stock-Analysis) | Time-series forecasting and market trend analysis |
 | Gowtham D | House Price Prediction | [Link](https://github.com/gowtham-dd/Project_3-HousePrediction) | Predictive modeling using regression algorithms |
+| Priyadarshini S | GEN AI Image Generator | [Link](https://github.com/PriyadarshiniSathishKumar/GENAI_ImageGenerator) |  PyTorch-based implementation of a Generative Adversarial Network (GAN) trained on the MNIST dataset|
+| Priyadarshini S | Instagram Reach Forecasting | [Link](https://github.com/PriyadarshiniSathishKumar/Instagram-Reach-Forecasting) | Forecasting Instagram post reach |
+| Priyadarshini S | Analyzing Amazon Sales Data | [Link](https://github.com/PriyadarshiniSathishKumar/Analyzing-Amazon-Sales-Data) | Sales data analysis and trends |
+| Priyadarshini S | IPL Score Prediction | [Link](https://github.com/PriyadarshiniSathishKumar/IPL-Score-Prediction) | IPL match score prediction using ML |
+| Priyadarshini S | Mutual Fund Analysis | [Link](https://github.com/PriyadarshiniSathishKumar/MutualFundAnalysis) | Analysis of mutual fund returns |
 
 ---
 
@@ -78,6 +80,8 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Power BI Visual Reports | [Link](https://github.com/gowtham-dd/Power-Bi) | Business insights and dashboards created with Power BI |
+| Priyadarshini S | Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Sales-Dashboard) | Power BI sales analysis dashboard |
+| Priyadarshini S | Financial Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Financial-Sales-dashboard) | Financial sector sales dashboard visualization |
 
 ---
 
@@ -86,6 +90,7 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Data Science Starter Pack | [Link](https://github.com/gowtham-dd/Data-Science-Basics) | Core concepts and notebooks for beginners in DS |
+| Priyadarshini S | Data Visualization of Bird Strikes 2000-2011 | [Link](https://github.com/PriyadarshiniSathishKumar/Data-visualization-of-bird-strikes-2000-2011) | Bird strike incidents data analysis and visualization |
 
 ---
 
@@ -94,7 +99,9 @@
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Online Store API | [Link](https://github.com/gowtham-dd/online_store_api) | RESTful API backend for an online store using Node.js |
+| Priyadarshini S | Movie API | [Link](https://github.com/PriyadarshiniSathishKumar/Movie-API) | A simple Node.js movie information API |
 
+---
 
 ## 💡 Project Ideas
 
@@ -108,7 +115,7 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| _Add Here_  |              |             |
+| Priyadarshini S | Quiz Application using React.js | [Link](https://github.com/PriyadarshiniSathishKumar/Quiz-Application-using-React.js) |
 
 ---
 
@@ -116,7 +123,6 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| _Add Here_  |              |             |
 
 ---
 
@@ -140,13 +146,12 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| _Add Here_  |              |             |
+| Priyadarshini S | Interactive QA Bot Interface | [Link](https://github.com/PriyadarshiniSathishKumar/Interactive-QA-Bot-interface) |
 
+---
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
 
-
+---
 
 **Made with ❤️ by Gowtham D and the community**
-
-
