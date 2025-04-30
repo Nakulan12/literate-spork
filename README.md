@@ -37,8 +37,6 @@
 | Gowtham D | Feminee | [Link](https://github.com/gowtham-dd/Feminee) | Women-focused wellness and lifestyle Flutter app |
 | Gowtham D | WorkFlow Generator | [Link](https://github.com/gowtham-dd/WorkFlow-Generator) | App to create and automate workflow structures |
 | Gowtham D | Chat App | [Link](https://github.com/gowtham-dd/chat-app) | Real-time Flutter chat app powered by Firebase |
-| Priyadarshini S | TODO App | [Link](https://github.com/PriyadarshiniSathishKumar/TO-DO-APP) | Simple task tracking app |
-| Priyadarshini S | Weather App | [Link](https://github.com/PriyadarshiniSathishKumar/Weather-APP) | Weather forecast app using open APIs |
 | Priyadarshini S | Quiz App (React) | [Link](https://github.com/PriyadarshiniSathishKumar/Quiz-Application-using-React.js) | React.js based quiz application |
 
 ---
@@ -47,6 +45,7 @@
 
 | Contributor | Project Name | GitHub Link | Description |
 |-------------|--------------|-------------|-------------|
+| Saba Jasmine A | Thirft Store | [Link](https://github.com/Sabajasmine/Thrift-Store) | Thrifted Forever is a full-stack MERN-based online thrift store |
 | Gowtham D | React Shopping App | [Link](https://github.com/gowtham-dd/React-Shopping-Web-Application) | Responsive shopping web app using React |
 | Priyadarshini S | Personal Portfolio | [Link](https://github.com/PriyadarshiniSathishKumar/Personal-Portfolio) | Personal portfolio built using HTML/CSS/JS |
 | Priyadarshini S | Student Registration Form | [Link](https://github.com/PriyadarshiniSathishKumar/Student-Registration-Form) | Basic form handling for student records |
