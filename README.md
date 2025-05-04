@@ -84,7 +84,8 @@
 |-------------|--------------|-------------|-------------|
 | Gowtham D | Power BI Visual Reports | [Link](https://github.com/gowtham-dd/Power-Bi) | Dashboards and insights using Power BI |
 | Priyadarshini S | Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Sales-Dashboard) | Sales data dashboard in Power BI |
-| Priyadarshini S | Financial Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Financial-Sales-dashboard) | Power BI financial sales insights dashboard |
+| Priyadarshini S | Financial Sales Dashboard | [Link](https://github.com/PriyadarshiniSathishKumar/Financial-Sales-dashboard) | Power BI financial sales insights dashboard|
+|Sri Ramana | Swiggy Restaurant Analysis | [Link](https://github.com/sriramanaa/power-bi-projects/blob/main/swiggy.pbix) | Power Bi Swiggy Restaurnt Analysis |
 
 ---
 
