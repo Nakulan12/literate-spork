@@ -157,4 +157,4 @@
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
 
-**Made with ❤️ by Gowtham D, Priyadarshini S, and the community**
+**Made with ❤️ by Gowtham D and the community**
