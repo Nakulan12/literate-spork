@@ -35,6 +35,17 @@
 
 ---
 
+## 🧪 End-to-End ML Projects with MLOps
+
+| Contributor | Project Name | GitHub Link | Description |
+|-------------|--------------|-------------|-------------|
+| Gowtham D | DNA Sequence Classification | [Link](https://github.com/gowtham-dd/DNAseqMLOPS) | Detects bacterial presence in DNA using ML, deployed via MLflow, Docker & AWS |
+| Gowtham D | Kidney Disease Detection | [Link](https://github.com/gowtham-dd/KidneyDiseaseMLOPS) | Deep learning-based 4-class kidney disease detection using Azure, MLflow & CI/CD |
+| Gowtham D | Fertilizer Prediction | [Link](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) | Fertilizer type prediction using Map@3 with full MLOps pipeline |
+| Gowtham D | Wine Quality Prediction | [Link](https://github.com/gowtham-dd/winepred-MLFLOW) | Predicts wine quality using MLflow, Docker & model lifecycle tools |
+
+---
+
 ## 🌐 Websites
 
 | Contributor | Project Name | GitHub Link | Description |
