@@ -17,12 +17,6 @@
 - [📈 Power BI Projects](#-power-bi-projects)
 - [🧠 Data Science Basics](#-data-science-basics)
 - [🧰 Node.js APIs](#-nodejs-apis)
-- [💡 Project Ideas](#-project-ideas)
-- [🖥️ Basic UI Clone Projects](#-basic-ui-clone-projects)
-- [🖱️ Clone Projects](#-clone-projects)
-- [📄 Papers](#-papers)
-- [📰 Articles](#-articles)
-- [🔧 Others](#-others)
 
 ---
 
@@ -106,54 +100,7 @@
 | Priyadarshini S | Movie API | [Link](https://github.com/PriyadarshiniSathishKumar/Movie-API) | Movie data retrieval via API |
 | Priyadarshini S | Interactive QA Bot Interface | [Link](https://github.com/PriyadarshiniSathishKumar/Interactive-QA-Bot-interface) | Chatbot-like question-answering tool |
 
----
 
-## 💡 Project Ideas
-
-| Contributor | Idea Title | GitHub Link / Notes |
-|-------------|------------|---------------------|
-| _Add Here_  |            |                     |
-
----
-
-## 🖥️ Basic UI Clone Projects
-
-| Contributor | Project Name | GitHub Link |
-|-------------|--------------|-------------|
-| _Add Here_  |              |             |
-
----
-
-## 🖱️ Clone Projects
-
-| Contributor | Project Name | GitHub Link |
-|-------------|--------------|-------------|
-
----
-
-## 📄 Papers
-
-| Contributor | Paper Title | GitHub Link |
-|-------------|-------------|-------------|
-| _Add Here_  |             |             |
-
----
-
-## 📰 Articles
-
-| Contributor | Article Title | GitHub Link |
-|-------------|---------------|-------------|
-| _Add Here_  |               |             |
-
----
-
-## 🔧 Others
-
-| Contributor | Project Name | GitHub Link |
-|-------------|--------------|-------------|
-| _Add Here_  |              |             |
-
----
 
 Please follow the [Contribution Guidelines](CONTRIBUTORS.md) before submitting your PR.
 
